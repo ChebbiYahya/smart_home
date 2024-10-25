@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "479989048019",
+    "project_id": "smart-home-ce704",
+    "storage_bucket": "smart-home-ce704.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:479989048019:android:1ab6df10a8f36ebdc12a26",
+        "android_client_info": {
+          "package_name": "com.example.smart_home"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRGZTmPsomUQLcKYI9bG3Yc1S2UGFLJ8s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
