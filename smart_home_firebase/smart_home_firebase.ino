@@ -14,9 +14,9 @@ DHT dht(DHTPIN, DHTTYPE);
 const int LEDPIN = 22;  // Le GPIO 22 est utilisé pour contrôler la LED
 
 // Informations de connexion Firebase
-#define WIFI_SSID "Downstairs 2.4 Ghz"//"HUAWEI-2.4G-Nwp6" //"HUAWEI-2.4G-GEj8" // SSID du réseau Wi-Fi
-#define WIFI_PASSWORD "Hubio2021"//"d5aY3H4x" //"aU2nKfan"      // Mot de passe du réseau Wi-Fi
-#define API_KEY "AIzaSyDRGZTmPsomUQLcKYI9bG3Yc1S2UGFLJ8s" // Clé API de Firebase
+#define WIFI_SSID "Orange00 2.4 Ghz" // SSID du réseau Wi-Fi
+#define WIFI_PASSWORD "*************"      // Mot de passe du réseau Wi-Fi
+#define API_KEY "*************************************" // Clé API de Firebase
 #define DATABASE_URL "https://smart-home-ce704-default-rtdb.firebaseio.com/" // URL de la base de données Firebase
 #define USER_EMAIL "yahya@gmail.com"   // Adresse email de l'utilisateur pour Firebase
 #define USER_PASSWORD "yahyayahya"     // Mot de passe de l'utilisateur pour Firebase
